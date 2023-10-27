@@ -1,13 +1,35 @@
 #EXTINF:-1 tvg-ID="" tvg-name="===== TV KANALE NGA PETRITI =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== ALBANIA =====
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95884
-#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER 1 KOSOVA HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/big_brother.png" group-title="EU ALBANIA",|ALB| BIG BROTHER 1 KOSOVO HD
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER 1 KOSOVA HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/big_brother.png" group-title="EU ALBANIA", BIG BROTHER 1 KOSOVA HD
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/462035
-#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER 1 KOSOVA FHD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/big_brother.png" group-title="EU ALBANIA",|ALB| BIG BROTHER 1 KOSOVO FHD
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER 1 KOSOVA FHD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/big_brother.png" group-title="EU ALBANIA", BIG BROTHER 1 KOSOVA FHD
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/462036
-#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER 2 KOSOVA HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/big_brother.png" group-title="EU ALBANIA",|ALB| BIG BROTHER 2 KOSOVO HD
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER 2 KOSOVA HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/big_brother.png" group-title="EU ALBANIA", BIG BROTHER 2 KOSOVA HD
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/462037
-#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER 2 KOSOVA FHD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/big_brother.png" group-title="EU ALBANIA",|ALB| BIG BROTHER 2 KOSOVO FHD
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| BIG BROTHER 2 KOSOVA FHD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/big_brother.png" group-title="EU ALBANIA", BIG BROTHER 2 KOSOVA FHD
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/462038
+#EXTINF:-1 tvg-ID="rtk.al" tvg-name="|ALB| RTK 1" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_1.png" group-title="EU ALBANIA",|ALB| RTK 1
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95910
+#EXTINF:-1 tvg-ID="rtk.al" tvg-name="|ALB| RTK 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_1.png" group-title="EU ALBANIA",|ALB| RTK 1 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95911
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 2" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_2.png" group-title="EU ALBANIA",|ALB| RTK 2
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95912
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 3" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_3.png" group-title="EU ALBANIA",|ALB| RTK 3
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95913
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 4" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_4.png" group-title="EU ALBANIA",|ALB| RTK 4
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95914
+#EXTINF:-1 tvg-ID="rtv21.al" tvg-name="|ALB| RTV21" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTV21.png" group-title="EU ALBANIA",|ALB| RTV21
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95915
+#EXTINF:-1 tvg-ID="rtv21.al" tvg-name="|ALB| RTV21 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/21_Plus_HD.png" group-title="EU ALBANIA",|ALB| RTV21 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95916
+#EXTINF:-1 tvg-ID="rtv21m.al" tvg-name="|ALB| RTV21 MAQEDONIA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTV21M.png" group-title="EU ALBANIA",|ALB| RTV21 MAQEDONIA
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95917
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KTV KOHAVISION" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/kohavision-logo.png" group-title="EU ALBANIA",|ALB| KTV KOHAVISION
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95918
+#EXTINF:-1 tvg-ID="tvdukagjini.al" tvg-name="|ALB| TV DUKAGJINI" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/tv_radio.png" group-title="EU ALBANIA",|ALB| TV DUKAGJINI
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95919
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TËVË 1 HD" tvg-logo="" group-title="EU ALBANIA",|ALB| TËVË 1 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/192705
 #EXTINF:-1 tvg-ID="topchannel.al" tvg-name="|ALB| TOP CHANNEL HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Top_Channel_HD.png" group-title="EU ALBANIA",|ALB| TOP CHANNEL HD
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95886
 #EXTINF:-1 tvg-ID="topchannel.al" tvg-name="|ALB| TOP CHANNEL 4K" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Top_Channel_HD.png" group-title="EU ALBANIA",|ALB| TOP CHANNEL 4K
@@ -22,6 +44,74 @@ http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95889
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95890
 #EXTINF:-1 tvg-ID="klanplus.al" tvg-name="|ALB| KLAN PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Klan_Plus.png" group-title="EU ALBANIA",|ALB| KLAN PLUS HD
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95891
+
+#EXTINF:-1 tvg-ID="" tvg-name="===== SUPER SPORTS =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== SUPER SPORTS =====
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96124
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-1_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 1 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96125
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 1 4K" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-1_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 1 4K
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96126
+#EXTINF:-1 tvg-ID="supersport2.al" tvg-name="|ALB| SUPER SPORT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-2_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 2 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96127
+#EXTINF:-1 tvg-ID="supersport3.al" tvg-name="|ALB| SUPER SPORT 3 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-3_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 3 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96129
+#EXTINF:-1 tvg-ID="supersport3.al" tvg-name="|ALB| SUPER SPORT 3 4K" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-3_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 3 4K
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96130
+#EXTINF:-1 tvg-ID="supersport4.al" tvg-name="|ALB| SUPER SPORT 4 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-4_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 4 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96131
+#EXTINF:-1 tvg-ID="supersport5.al" tvg-name="|ALB| SUPER SPORT 5 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-5_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 5 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96133
+#EXTINF:-1 tvg-ID="supersport6.al" tvg-name="|ALB| SUPER SPORT 6 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-6_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 6 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96135
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| SUPER SPORT 7 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/SS-7_HD.png" group-title="EU ALBANIA",|ALB| SUPER SPORT 7 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96137
+#EXTINF:-1 tvg-ID="supersportkosova1.al" tvg-name="|ALB| SUPER SPORT KOSOVO 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Super-Sport-Kosova-1.png" group-title="EU ALBANIA",|ALB| SUPER SPORT KOSOVO 1 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/144814
+#EXTINF:-1 tvg-ID="supersportkosova2.al" tvg-name="|ALB| SUPER SPORT KOSOVO 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Super-Sport-Kosova-2.png" group-title="EU ALBANIA",|ALB| SUPER SPORT KOSOVO 2 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/144815
+#EXTINF:-1 tvg-ID="" tvg-name="===== TRING SPORTS =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== TRING SPORTS =====
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96139
+#EXTINF:-1 tvg-ID="tringsportnews.al" tvg-name="|ALB| TRING SPORT NEWS" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/TringSportNews-Live.png" group-title="EU ALBANIA",|ALB| TRING SPORT NEWS
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96140
+#EXTINF:-1 tvg-ID="tringsportnews.al" tvg-name="|ALB| TRING SPORT NEWS HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/TringSportNews-Live.png" group-title="EU ALBANIA",|ALB| TRING SPORT NEWS HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96141
+#EXTINF:-1 tvg-ID="tringsport1.al" tvg-name="|ALB| TRING SPORT 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Tring-Sport-1.png" group-title="EU ALBANIA",|ALB| TRING SPORT 1 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96142
+#EXTINF:-1 tvg-ID="tringsport2.al" tvg-name="|ALB| TRING SPORT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/TringSport-2.png" group-title="EU ALBANIA",|ALB| TRING SPORT 2 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96143
+#EXTINF:-1 tvg-ID="tringsport3.al" tvg-name="|ALB| TRING SPORT 3 HD (ONLY MATCH TIME)" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Tring-Sport-3.png" group-title="EU ALBANIA",|ALB| TRING SPORT 3 HD (ONLY MATCH TIME)
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96144
+#EXTINF:-1 tvg-ID="tringsport4.al" tvg-name="|ALB| TRING SPORT 4 HD (ONLY MATCH TIME)" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/" group-title="EU ALBANIA",|ALB| TRING SPORT 4 HD (ONLY MATCH TIME)
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96145
+#EXTINF:-1 tvg-ID="" tvg-name="===== KUJTESA SPORT =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",===== KUJTESA SPORT =====
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96146
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| K SPORT 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Kujtesa_Sport_1.png" group-title="EU ALBANIA",|ALB| K SPORT 1 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96147
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| K SPORT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Kujtesa_Sport_2.png" group-title="EU ALBANIA",|ALB| K SPORT 2 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96148
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| K SPORT 3 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Kujtesa_Sport_3.png" group-title="EU ALBANIA",|ALB| K SPORT 3 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96149
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| K SPORT 4 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/Kujtesa_Sport_4.png" group-title="EU ALBANIA",|ALB| K SPORT 4 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96150
+#EXTINF:-1 tvg-ID="" tvg-name="==== ART MOTION SPORT =====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",==== ART MOTION SPORT =====
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96152
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART SPORT 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ART_SPORT_1_HD.png" group-title="EU ALBANIA",|ALB| ART SPORT 1 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96153
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART SPORT 2 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ART_SPORT_2_HD.png" group-title="EU ALBANIA",|ALB| ART SPORT 2 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96154
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| ART SPORT 3 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ART_SPORT_3_HD.png" group-title="EU ALBANIA",|ALB| ART SPORT 3 HD
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/96155
+#EXTINF:-1 tvg-ID="" tvg-name="==== OVER SPORT ====" tvg-logo="http://vodkom.com:25461/Logo/FLAGS/1-Albania.png" group-title="EU ALBANIA",==== OVER SPORT ====
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/169623
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| OVER SPORT 1" tvg-logo="" group-title="EU ALBANIA",|ALB| OVER SPORT 1
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/169619
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| OVER SPORT 2" tvg-logo="" group-title="EU ALBANIA",|ALB| OVER SPORT 2
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/169620
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| OVER SPORT 3" tvg-logo="" group-title="EU ALBANIA",|ALB| OVER SPORT 3
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/169621
+#EXTINF:-1 tvg-ID="" tvg-name="|ALB| OVER SPORT 4" tvg-logo="" group-title="EU ALBANIA",|ALB| OVER SPORT 4
+http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/169622
+
 #EXTINF:-1 tvg-ID="vizionplus.al" tvg-name="|ALB| VIZION PLUS HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Vizion_Plus_HD.png" group-title="EU ALBANIA",|ALB| VIZION PLUS HD
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95892
 #EXTINF:-1 tvg-ID="vizionplus.al" tvg-name="|ALB| VIZION PLUS 4K" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/Tring.Digital/Vizion_Plus_HD.png" group-title="EU ALBANIA",|ALB| VIZION PLUS 4K
@@ -60,28 +150,6 @@ http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95907
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95908
 #EXTINF:-1 tvg-ID="rtshsport.al" tvg-name="|ALB| RTSH SPORT HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTSH_SPORT.png" group-title="EU ALBANIA",|ALB| RTSH SPORT HD
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95909
-#EXTINF:-1 tvg-ID="rtk.al" tvg-name="|ALB| RTK 1" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_1.png" group-title="EU ALBANIA",|ALB| RTK 1
-http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95910
-#EXTINF:-1 tvg-ID="rtk.al" tvg-name="|ALB| RTK 1 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_1.png" group-title="EU ALBANIA",|ALB| RTK 1 HD
-http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95911
-#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 2" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_2.png" group-title="EU ALBANIA",|ALB| RTK 2
-http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95912
-#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 3" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_3.png" group-title="EU ALBANIA",|ALB| RTK 3
-http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95913
-#EXTINF:-1 tvg-ID="" tvg-name="|ALB| RTK 4" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTK_4.png" group-title="EU ALBANIA",|ALB| RTK 4
-http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95914
-#EXTINF:-1 tvg-ID="rtv21.al" tvg-name="|ALB| RTV21" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTV21.png" group-title="EU ALBANIA",|ALB| RTV21
-http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95915
-#EXTINF:-1 tvg-ID="rtv21.al" tvg-name="|ALB| RTV21 HD" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/21_Plus_HD.png" group-title="EU ALBANIA",|ALB| RTV21 HD
-http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95916
-#EXTINF:-1 tvg-ID="rtv21m.al" tvg-name="|ALB| RTV21 MAQEDONIA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/RTV21M.png" group-title="EU ALBANIA",|ALB| RTV21 MAQEDONIA
-http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95917
-#EXTINF:-1 tvg-ID="" tvg-name="|ALB| KTV KOHAVISION" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/kohavision-logo.png" group-title="EU ALBANIA",|ALB| KTV KOHAVISION
-http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95918
-#EXTINF:-1 tvg-ID="tvdukagjini.al" tvg-name="|ALB| TV DUKAGJINI" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/tv_radio.png" group-title="EU ALBANIA",|ALB| TV DUKAGJINI
-http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95919
-#EXTINF:-1 tvg-ID="" tvg-name="|ALB| TËVË 1 HD" tvg-logo="" group-title="EU ALBANIA",|ALB| TËVË 1 HD
-http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/192705
 #EXTINF:-1 tvg-ID="" tvg-name="|ALB| T7" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/T7.png" group-title="EU ALBANIA",|ALB| T7
 http://ottsansat.org:25461/02022525985278/9MF2ZHOBLEYTLJ3/95920
 #EXTINF:-1 tvg-ID="" tvg-name="|ALB| TV ERA" tvg-logo="http://vodkom.com:25461/Logo/ALBANIA/DIGI/ERA_TV.png" group-title="EU ALBANIA",|ALB| TV ERA
